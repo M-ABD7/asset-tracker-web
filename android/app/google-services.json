@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "489367389264",
+    "project_id": "asset-tracker-f0c9f",
+    "storage_bucket": "asset-tracker-f0c9f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489367389264:android:a6f37fb2875b5839533d55",
+        "android_client_info": {
+          "package_name": "com.example.final_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUvQ5cX11205typr7Tm91tt87guarXL7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
